@@ -89,7 +89,7 @@ Total: 4 produto(s)
 ### Com `make` (recomendado)
 
 ```bash
-git clone https://github.com/<seu-usuario>/cadastro-loja-c.git
+git clone https://github.com/<v-arruda>/cadastro-loja-c.git
 cd cadastro-loja-c
 
 make          # compila para build/cadastro_loja
@@ -196,7 +196,6 @@ O workflow em `.github/workflows/ci.yml` compila e testa automaticamente a cada 
 
 ## Equipe
 
-| Nome | RGM |
 |---|---|
 | Vitor Arruda dos Santos | 47351241 |
 | Guilherme Lima Araujo | 47058773 |
