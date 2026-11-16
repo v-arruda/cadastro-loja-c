@@ -196,13 +196,14 @@ O workflow em `.github/workflows/ci.yml` compila e testa automaticamente a cada 
 
 ## Equipe
 
-|---|---|
-| Vitor Arruda dos Santos | 47351241 |
-| Guilherme Lima Araujo | 47058773 |
-| Diogo Cora | 47071974 |
-| Júlio César Rocha | 47422432 |
-| Giovanni Henrique Tartaro | 47048026 |
-| Arthur Henrique Alves | 47332361 |
+| # | Integrante | RGM |
+|:-:|------------|:---:|
+| 1 | Vitor Arruda dos Santos | 47351241 |
+| 2 | Guilherme Lima Araujo | 47058773 |
+| 3 | Diogo Cora | 47071974 |
+| 4 | Júlio César Rocha | 47422432 |
+| 5 | Giovanni Henrique Tartaro | 47048026 |
+| 6 | Arthur Henrique Alves | 47332361 |
 
 ---
 
