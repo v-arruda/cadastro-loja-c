@@ -1,9 +1,0 @@
-# Binarios e artefatos de build
-build/
-*.exe
-*.o
-
-# Dados gerados em tempo de execucao
-/produtos.txt
-/produtos_temp.txt
-/produtos.csv
