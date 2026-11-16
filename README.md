@@ -89,7 +89,7 @@ Total: 4 produto(s)
 ### Com `make` (recomendado)
 
 ```bash
-git clone https://github.com/<v-arruda>/cadastro-loja-c.git
+git clone https://github.com/v-arruda/cadastro-loja-c.git
 cd cadastro-loja-c
 
 make          # compila para build/cadastro_loja
